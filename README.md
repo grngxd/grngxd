@@ -1,1 +1,1 @@
-[![Ayzan's github stats](https://github-readme-stats.vercel.app/api?username=ayzansalt)](https://ayzan.tech/)
+[![Ayzan's github stats](https://github-readme-stats.vercel.app/api?username=ayzansalt)](https://ayzan.tech/)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayzansalt&layout=compact)]
