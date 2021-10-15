@@ -1,1 +1,1 @@
-[![Ayzan's github stats](https://github-readme-stats.vercel.app/api?username=monitrr&show_icons=true&theme=tokyonight)](https://ayzan.tech/)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monitr&show_icons=true&theme=tokyonight)
+[![Ayzan's github stats](https://github-readme-stats.vercel.app/api?username=monitrr&show_icons=true&theme=tokyonight)](https://ayzan.tech/)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monitrr&show_icons=true&theme=tokyonight)
