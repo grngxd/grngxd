@@ -88,4 +88,7 @@ system.stdout.write("Hello, world 🌎");
 <br>
 <h2👨‍💻 Programming Stats</h2>
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
