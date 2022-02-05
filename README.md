@@ -79,6 +79,7 @@ system.stdout.write("Hello, world 🌎");
 
 <br>
 <h2>📊 Github Stats</h2>
+
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/monitrr/github-stats-transparent/output/generated/overview.svg)
@@ -86,9 +87,7 @@ system.stdout.write("Hello, world 🌎");
 </a>
 
 <br>
-<h2👨‍💻 Programming Stats</h2>
+<h2>👨‍💻 Programming Stats</h2>
+
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
