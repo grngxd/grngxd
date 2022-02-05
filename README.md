@@ -16,7 +16,7 @@ system.stdout.write("Hello, world 🌎");
 <h2>🧑 About Me:</h2>
 <ul>
   <li>
-  👨🏻‍💻 I'm currently working on a <b>CLI Project to manage discord bots.</b>
+  ⌨ I'm currently working on a <b>CLI Project to manage discord bots.</b>
   </li>
   <li>
   🌱 I'm currently learning <b><a href="https://go.dev/">Go</a>.</b>
@@ -84,3 +84,8 @@ system.stdout.write("Hello, world 🌎");
 ![Stats Overview](https://raw.githubusercontent.com/monitrr/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 </a>
+
+<br>
+<h2👨‍💻 Programming Stats</h2>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
