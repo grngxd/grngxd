@@ -16,7 +16,7 @@ system.stdout.write("Hello, world 🌎");
 <h2>🧑 About Me:</h2>
 <ul>
   <li>
-  ⌨ I'm currently working on a <b>CLI Project to manage discord bots.</b>
+  ⌨ I'm currently working on <b>Metaboards, my portfolio, FingerboardStats</b>
   </li>
   <li>
   🌱 I'm currently learning <b><a href="https://go.dev/">Go</a>.</b>
