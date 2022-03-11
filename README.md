@@ -27,8 +27,55 @@ system.stdout.write("Hello, world 🌎");
 </ul>
 <br>
 <h2>🔨 Technologies</h2>
-a
-[![My Skills](https://skillicons.dev/icons?i=svelte,html,css,js,java,cs,figma,tailwind,coffeescript,nextjs,react,pr,py,ts,cloudflare)](https://skillicons.dev)
+<span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="width:40px;"/>
+</span>
+<span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width:40px;"/>
+</span>
+<span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width:40px;"/>
+</span>
+<span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:40px"/>
+</span>
+<span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="width:40px"/>
+</span>
+<span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="width:40px;" />
+</span>
+<span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="width:40px"/>
+</span>
+<span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width:40px;"/>
+</span>
+<span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="width:40px;"/>
+</span>
+<span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="width:40px;"/>
+</span>
+<span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="width:40px;"/>
+</span>
+<span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="width:40px;"/>
+</span>
+<span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:40px;"/>
+</span>
+<span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="width:40px;"/>
+</span>
+<span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" style="width:40px;"/>
+</span>
+<span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="width:40px;"/>
+</span>
+
 
 <br>
 <h2>📊 Github Stats</h2>
