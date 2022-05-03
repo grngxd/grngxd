@@ -3,7 +3,7 @@
 <img src="./img/banner.png" style="border-radius: 10px">
 
 ```js
-system.stdout.write("Hello, world 🌎");
+process.stdout.write("Hello, world 🌎");
 ````
 
 <h2>🤹‍♀️ My Skills:</h2>
