@@ -92,8 +92,7 @@ process.stdout.write("Hello, world 🌎");
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   12 mins         ████████████████▒░░░░░░░░   65.01 %
-JavaScript   6 mins          ████████▓░░░░░░░░░░░░░░░░   34.99 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
