@@ -91,7 +91,7 @@ process.stdout.write("Hello, world 🌎");
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
