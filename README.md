@@ -92,8 +92,7 @@ process.stdout.write("Hello, world 🌎");
 <!--START_SECTION:waka-->
 
 ```txt
-Other    0 secs          █████████████████░░░░░░░░   67.78 %
-Python   0 secs          ████████░░░░░░░░░░░░░░░░░   32.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
