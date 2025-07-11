@@ -1,93 +1,23 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 <img src="./img/banner.png" style="border-radius: 10px">
 
 ```js
 process.stdout.write("Hello, world 🌎");
-````
+```
 
-<h2>🤹‍♀️ My Skills:</h2>
-<ul>
-<li>Full Stack Web Development 💻</li>
-<li>Game Development 🎮</li>
-<li>Graphic Design 🎨</li>
-</ul>
-<br>
-<h2>🧑 About Me:</h2>
-<ul>
-  <li>
-  ⌨ I'm currently working on <b>Metaboards (On Hold), https://cross.place, FingerboardStats</b>
-  </li>
-  <li>
-  🌱 I'm currently learning <b><a href="https://go.dev/">Go</a>.</b>
-  </li>
-  <li>
-  🚀 I currently have made <b>5</b> published projects.
-  </li>
-</ul>
-<br>
-<h2>🔨 Technologies</h2>
-<span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="width:40px;"/>
-</span>
-<span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width:40px;"/>
-</span>
-<span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width:40px;"/>
-</span>
-<span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:40px"/>
-</span>
-<span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="width:40px"/>
-</span>
-<span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="width:40px;" />
-</span>
-<span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="width:40px"/>
-</span>
-<span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width:40px;"/>
-</span>
-<span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="width:40px;"/>
-</span>
-<span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="width:40px;"/>
-</span>
-<span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="width:40px;"/>
-</span>
-<span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="width:40px;"/>
-</span>
-<span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:40px;"/>
-</span>
-<span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="width:40px;"/>
-</span>
-<span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" style="width:40px;"/>
-</span>
-<span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="width:40px;"/>
-</span>
+👋 hey, i'm [**grng**](https://grng.cc), a full-stack software dev hailing from [London 🇬🇧](https://www.google.com/maps/place/London/).
 
+i specialise in building **robust** & **scalable** software such as [stereo](https://stero.cat) using **typescript** and other technologies.
 
-<br>
-<h2>📊 Github Stats</h2>
+on the flip-side, i also use **kotlin** and **c#** to make minecraft mods such as *edge (discontinued)* and Unity games.
 
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/monitrr/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/monitrr/github-stats-transparent/output/generated/languages.svg)
-</a>
+<div style="display: flex; align-items: center; justify-self: center; gap: 0.5rem;">
 
-<br>
-<h2>👨‍💻 Programming Stats</h2>
+[![Discord Presence](https://lanyard.cnrad.dev/api/829372486780715018?hideStatus=true&hideTag=true&borderRadius=0.75rem&showDisplayName=true)](https://discord.com/users/829372486780715018)
+
+<!-- https://builder.syvixor.com/ -->
+![](https://skills.syvixor.com/api/icons?i=windows,firefox,powershell,git,visualstudiocode,rider,intellijidea,adobepremierepro,adobeaftereffects,unity,figma,qwik,svelte,nextjs,typescript,supabase,pocketbase,drizzle,kotlin,csharp,golang,haxe,bun&perline=7&radius=60)
+</div>
 
 <!--START_SECTION:waka-->
 
@@ -100,3 +30,5 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+![moe](https://count.wellard.org/@:grngxd-github?theme=original-new&padding=1&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
