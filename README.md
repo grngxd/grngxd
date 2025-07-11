@@ -9,14 +9,11 @@ process.stdout.write("Hello, world 🌎");
 
 i specialise in building **robust** & **scalable** software such as [stereo](https://stero.cat) using **typescript** and other technologies.
 
-on the flip-side, i also use **kotlin** and **c#** to make minecraft mods such as *eClient (discontinued)* and Unity games.
+on the flip-side, i also use **kotlin** and **c#** to make minecraft mods such as *edge (discontinued)* and Unity games.
 
-<div style="width: 100%; display: flex; flex-direction: row; align-items: center; justify-self: center; gap: 0.5rem;">
+<div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/829372486780715018?hideStatus=true&hideTag=true&borderRadius=0.75rem&showDisplayName=true)](https://discord.com/users/829372486780715018)
-
-<!-- https://builder.syvixor.com/ -->
-![icons](https://skills.syvixor.com/api/icons?i=windows,firefox,powershell,git,visualstudiocode,rider,intellijidea,adobepremierepro,adobeaftereffects,unity,figma,qwik,svelte,nextjs,typescript,supabase,pocketbase,drizzle,kotlin,csharp,golang,haxe,bun&perline=7&radius=60)
+[![Discord Presence](https://lanyard.cnrad.dev/api/829372486780715018?hideStatus=true&hideTag=true&borderRadius=0.75rem&showDisplayName=true)](https://discord.com/users/829372486780715018) ![](https://skills.syvixor.com/api/icons?i=windows,firefox,powershell,git,visualstudiocode,rider,intellijidea,adobepremierepro,adobeaftereffects,unity,figma,qwik,svelte,nextjs,typescript,supabase,pocketbase,drizzle,kotlin,csharp,golang,haxe,bun&perline=7&radius=60)
 
 </div>
 
