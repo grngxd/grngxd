@@ -16,7 +16,8 @@ on the flip-side, i also use **kotlin** and **c#** to make minecraft mods such a
 [![Discord Presence](https://lanyard.cnrad.dev/api/829372486780715018?hideStatus=true&hideTag=true&borderRadius=0.75rem&showDisplayName=true)](https://discord.com/users/829372486780715018)
 
 <!-- https://builder.syvixor.com/ -->
-![](https://skills.syvixor.com/api/icons?i=windows,firefox,powershell,git,visualstudiocode,rider,intellijidea,adobepremierepro,adobeaftereffects,unity,figma,qwik,svelte,nextjs,typescript,supabase,pocketbase,drizzle,kotlin,csharp,golang,haxe,bun&perline=7&radius=60)
+![icons](https://skills.syvixor.com/api/icons?i=windows,firefox,powershell,git,visualstudiocode,rider,intellijidea,adobepremierepro,adobeaftereffects,unity,figma,qwik,svelte,nextjs,typescript,supabase,pocketbase,drizzle,kotlin,csharp,golang,haxe,bun&perline=7&radius=60)
+
 </div>
 
 <!--START_SECTION:waka-->
