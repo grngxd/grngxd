@@ -11,7 +11,7 @@ i specialise in building **robust** & **scalable** software such as [stereo](htt
 
 on the flip-side, i also use **kotlin** and **c#** to make minecraft mods such as *eClient (discontinued)* and Unity games.
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-self: center; gap: 0.5rem;">
+<div style="width: 100%; display: flex; flex-direction: row; align-items: center; justify-self: center; gap: 0.5rem;">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/829372486780715018?hideStatus=true&hideTag=true&borderRadius=0.75rem&showDisplayName=true)](https://discord.com/users/829372486780715018)
 
