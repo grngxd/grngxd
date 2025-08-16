@@ -20,11 +20,11 @@ on the flip-side, i also use **kotlin** and **c#** to make minecraft mods such a
 <!--START_SECTION:waka-->
 
 ```txt
-Go           10 hrs 52 mins  ██████████████▒░░░░░░░░░░   57.84 %
-TypeScript   4 hrs 50 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
-Markdown     1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-Zig          31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-YAML         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Go           8 hrs 33 mins   ██████████████░░░░░░░░░░░   55.80 %
+TypeScript   4 hrs 31 mins   ███████▒░░░░░░░░░░░░░░░░░   29.48 %
+Markdown     1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+YAML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
 ```
 
 <!--END_SECTION:waka-->
