@@ -29,4 +29,4 @@ CSS          4 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-![moe](https://count.wellard.org/@:github-grngxd?theme=original-new&padding=1&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
+![moe](https://count.getloli.com/@:grng?theme=original-new&padding=1&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
