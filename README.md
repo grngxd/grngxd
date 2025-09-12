@@ -20,11 +20,7 @@ on the flip-side, i also use **kotlin** and **c#** to make minecraft mods such a
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   33 mins         █████████████████░░░░░░░░   68.64 %
-JavaScript   12 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.08 %
-JSON         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-TSConfig     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
